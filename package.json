@@ -1,0 +1,18 @@
+{
+  "name": "tfav",
+  "version": "1.0.0",
+  "description": "Twitter auto-fav utility bot written by Jessassin",
+  "main": "tfav.js",
+  "dependencies": {
+    "console-stamp": "*",
+    "twitter": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node tfav.js"
+  },
+  "author": "Jessassin",
+  "repository": "https://github.com/Jessassin/TFav",
+  "readme": "readme.md",
+  "license": "NA"
+}
